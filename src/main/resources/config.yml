@@ -1,0 +1,16 @@
+gamerules:
+  commandBlockOutput: true
+  doDaylightCycle: false
+  doEntityDrops: false
+  doFireTick: false
+  doMobLoot: false
+  doMobSpawning: false
+  doTileDrops: true
+  keepInventory: false
+  logAdminCommands: true
+  mobGriefing: false
+  naturalRegeneration: true
+  randomTickSpeed: 3
+  reducedDebugInfo: false
+  sendCommandFeedback: true
+  showDeathMessage: true

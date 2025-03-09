@@ -1,0 +1,4 @@
+name: WorldInit
+version: '${project.version}'
+main: com.eofitg.worldinit.World_Init
+load: STARTUP
