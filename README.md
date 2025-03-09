@@ -1,4 +1,4 @@
-# WorldInit
+# World-Init
 
 WorldInit is a lightweight Minecraft plugin that automatically applies predefined **gamerule** settings to every world when it loads.
 
