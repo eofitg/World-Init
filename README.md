@@ -1,6 +1,6 @@
 # World-Init
 
-WorldInit is a lightweight Minecraft plugin that automatically applies predefined **gamerule** settings to every world when it loads.
+World-Init is a lightweight Minecraft plugin that automatically applies predefined **gamerule** settings to every world when it loads.
 
 ### Configuration
 Modify the `config.yml` file to set default **gamerules** for all worlds:
